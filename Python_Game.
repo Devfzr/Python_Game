@@ -7,9 +7,11 @@
    "Option_3": 7,
    "Story": "You are at house",
    "Navigation": "Press 1 to go to bar, Press 2 to go College, Press 3 to go Mall",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 2,
@@ -19,9 +21,11 @@
    "Option_3": 15,
    "Story": "You are at bar",
    "Navigation": "Press 1 to go to Park, Press 2 to go Theatre, Press 3 to go Airport",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 1
+   "Stranger": 1,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 3,
@@ -31,9 +35,11 @@
    "Option_3": 12,
    "Story": "You are in the park",
    "Navigation": "Press 1 to go to College, Press 2 to go Wallmart, Press 3 to go Theatre ",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 4,
@@ -43,9 +49,11 @@
    "Option_3": 15,
    "Story": "You are at college",
    "Navigation": "Press 1 to go to School, Press 2 to go KFC, Press 3 to go Airport",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 5,
@@ -55,9 +63,11 @@
    "Option_3": 12,
    "Story": "You are at school",
    "Navigation": "Press 1 to go to Wallmart, Press 2 to go Park, Press 3 to go Theatre",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 6,
@@ -67,9 +77,11 @@
    "Option_3": 20,
    "Story": "You are at office",
    "Navigation": "Press 1 to go to Club, Press 2 to go to Mall, Press 3 to go Bus stop",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 7,
@@ -79,9 +91,11 @@
    "Option_3": 20,
    "Story": "You are at mall",
    "Navigation": "Press 1 to go to Airport, Press 2 to go Subway, Press 3 to go Bus stop",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 8,
@@ -91,9 +105,11 @@
    "Option_3": 23,
    "Story": "You are in the club",
    "Navigation": "Press 1 to go to Mall, Press 2 to go Downtown, Press 3 to go Bell park",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 1
+   "Stranger": 1,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 9,
@@ -103,9 +119,11 @@
    "Option_3": 24,
    "Story": "You are in toronto",
    "Navigation": "Press 1 to go to Office, Press 2 to go Cinema, Press 3 to go Barista",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 1,
+   "snake": 0
  },
  {
    "ID": 10,
@@ -115,9 +133,11 @@
    "Option_3": 20,
    "Story": "You are in sudbury",
    "Navigation": "Press 1 to go to School, Press 2 to go Bar, Press 3 to go Bus stop",
-   "Die": 1,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 1,
+   "snake": 0
  },
  {
    "ID": 11,
@@ -127,9 +147,11 @@
    "Option_3": 18,
    "Story": "You are in the cinema",
    "Navigation": "Press 1 to go to Tim Horton, Press 2 to go Toronto, Press 3 to go Wallmart",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 12,
@@ -139,9 +161,11 @@
    "Option_3": 17,
    "Story": "You are at theatre",
    "Navigation": "Press 1 to go to College, Press 2 to go Club, Press 3 to go Subway",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 1
  },
  {
    "ID": 13,
@@ -151,9 +175,11 @@
    "Option_3": 15,
    "Story": "You are at kfc",
    "Navigation": "Press 1 to go to Office, Press 2 to go Mall, Press 3 to go Airport",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 14,
@@ -161,11 +187,13 @@
    "Option_1": 23,
    "Option_2": 24,
    "Option_3": 10,
-   "Story": "You are at Tim",
+   "Story": "You are at Tim Hortons",
    "Navigation": "Press 1 to go to Bell Park,  Press 2 to go Barista, Press 3 to go Sudbury",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 15,
@@ -175,9 +203,11 @@
    "Option_3": 1,
    "Story": "You are at airport",
    "Navigation": "Press 1 to go to Toronto, Press 2 to go Sudbury, Press 3 to go House",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 1
+   "Stranger": 1,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 16,
@@ -187,9 +217,11 @@
    "Option_3": 4,
    "Story": "You are at winners",
    "Navigation": "Press 1 to go to Bus stop, Press 2 to go Sudbury, Press 3 to go College",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 17,
@@ -199,9 +231,11 @@
    "Option_3": 21,
    "Story": "You are in the subway",
    "Navigation": "Press 1 to go to Wallmart, Press 2 to go Laurentian University, Press 3 to go Metro",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 18,
@@ -211,9 +245,11 @@
    "Option_3": 12,
    "Story": "You are at wallmart",
    "Navigation": "Press 1 to go to Subway, Press 2 to go Tim Horton, Press 3 to go Theatre",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 19,
@@ -223,9 +259,11 @@
    "Option_3": 8,
    "Story": "You are at Laurentian University",
    "Navigation": "Press 1 to go to Downtown, Press 2 to go Barista, Press 3 to go Club",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 1
+   "Stranger": 1,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 20,
@@ -235,9 +273,11 @@
    "Option_3": 10,
    "Story": "You are at bus stop",
    "Navigation": "Press 1 to go to Theatre, Press 2 to go Subway, Press 3 to go Sudbury",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 21,
@@ -247,9 +287,11 @@
    "Option_3": 10,
    "Story": "You are at metro",
    "Navigation": "Press 1 to go to Laurentian University, Press 2 to go Theatre, Press 3 to go Sudbury",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 22,
@@ -259,9 +301,11 @@
    "Option_3": 6,
    "Story": "You are in th downtown",
    "Navigation": "Press 1 to go to Barista, Press 2 to go Police station, Press 3 to go Office",
-   "Die": 0,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 23,
@@ -271,32 +315,38 @@
    "Option_3": 4,
    "Story": "You are at bell park",
    "Navigation": "Press 1 to go to Sudbury, Press 2 to go Wallmart, Press 3 to go College",
-   "Die": 1,
+   "Loss": 0,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 1
  },
  {
    "ID": 24,
    "Room": "Barista",
-   "Option_1": 18,
-   "Option_2": 3,
-   "Option_3": 5,
+   "Option_1": null,
+   "Option_2": null,
+   "Option_3": null,
    "Story": "You are at barista",
-   "Navigation": "Press 1 to go to Wallmart, Press 2 to go Park, Press 3 to go School",
-   "Die": 0,
-   "Win": 0,
-   "Stranger": 0
+   "Navigation": "",
+   "Loss": 0,
+   "Win": 1,
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  },
  {
    "ID": 25,
    "Room": "Police station",
-   "Option_1": 0,
-   "Option_2": 0,
-   "Option_3": 0,
+   "Option_1": null,
+   "Option_2": null,
+   "Option_3": null,
    "Story": "You are at police station",
-   "Navigation": "Press 1 to go to bar, Press 2 to go College, Press 3 to go Mall",
-   "Die": 1,
+   "Navigation": "",
+   "Loss": 1,
    "Win": 0,
-   "Stranger": 0
+   "Stranger": 0,
+   "weather": 0,
+   "snake": 0
  }
 ]
